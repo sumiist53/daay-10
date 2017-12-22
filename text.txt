@@ -1,0 +1,96 @@
+web content er sathe client r communication k behavior bole.
+2 ta part r modhe 1 ta holo content
+onno ta holo j site visit cortece.user/client/visitor same
+behavior ta k control korte hoy javascript die.
+
+web content upor mouse nie ja kicu kora hoy sob e holo communication
+
+what is javascript-javascript is a scripting language and it also a programming language
+scripting language:1 ta language r syntax er moddhe jodi r 1 ta language lekha jay take scripting language bole.
+exp:html r .html er moddhe css code lekha jay.
+
+programming language:-jokhon kono language decesion nite pare take programming language bole
+
+java script decesion nite pare tai take programming language o bole.
+
+kono 1 ta language programminng kina ta 2 ta bisoyer upor depend kore
+
+1.decesion nite pare kina.
+2.j language ta die ami code likhbo tar kono vul dhorte pare kina.
+browser html r vul dhorte pare na.but java script vul dhorte pare.
+error dhorte pare javascript.
+
+tai java script k programming language bole.
+
+abar javascript k programminng language bole na tar o karon ase
+programming language hobar major condition holo compiler compile korbe and windows a run hote  hobe.
+
+but javascript a browser interpret kore output dekhay browser code gulo k machine code korte pare na.
+
+tai java javascript k interpretor language bole not pure programming language .
+
+
+javascript hosce object-oriented-scripting language.
+
+javascript invent koren-sir brendan eich job korten.-netscap browser cilo.
+1994 a invent koren.prothom netscap browser a javascript er library run koran.
+
+javascript>live script-1995>javascript-1995last
+
+1996 a microsoft javascript r moto kore jscript create kore.
+
+then javascript 1 ta organigation create kore jar nam doa hoy ECMA 1997.
+1999-ECMA3 publication three
+
+update version 2009 ECMA5
+
+2015 ECMA6-latest version/ECMA-2015 same
+atar jonno compiler lagbe kono browser r compiler add korte pare nai-buble compiler use korte hoy.
+
+amra practice korce ECMA5-cause
+javascript ECMA5 standard-website r behavier control korte 6 ta
+1.syntax
+2.variable
+3.operator
+4.statement
+5.array
+6.function
+
+
+.php .html .js a javascript r code lekha jay
+
+
+VARIABLE:
+
+variable are depend in three major rules
+1.start with var sign;
+2.A-Z,a-z,0-9,_,$
+3.no number in first
+
+
+var name
+var NAME
+var _name
+var $NAME
+var namr9
+
+Variable three standard rules
+1.small letter
+2.meaningfull
+3 readable
+
+exp:
+1.firstName            we practice camelcase.
+
+ /*Operator
+        *Arithmatic Operator
+            1.binary operator(+,-,*,/,%)
+            2.unary operator(++,--,(-))
+         *Assignment operator-(=,+=,-=,/=,%=,*=)
+         *Conditional Operator-(>,>=,<,<=,==,===,!=,!==)
+         *logikal operator(&&,||,!)
+
+
+
+     */
+
